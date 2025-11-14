@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Tisha Chat",
-    "slug": "tisha",
+    "slug": "tisha-chat",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -12,12 +12,15 @@
     },
     "plugins": [],
     "android": {
-      "package": "com.tisha.chat"
+      "package": "com.tisha.app"
     },
     "extra": {
       "eas": {
         "projectId": "89773908-5dc4-48a8-9c46-fd66bac1236d"
       }
+    },
+    "cli": {
+      "appVersionSource": "remote"
     }
   }
 }
