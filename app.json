@@ -13,15 +13,7 @@
     "plugins": [],
     "android": {
       "package": "com.tisha.chat"
-    }
-  }
-}
-{
-  "expo": {
-    "name": "Tisha Chat",
-    "slug": "tisha-chat",
-    "version": "1.0.0",
-
+    },
     "extra": {
       "eas": {
         "projectId": "89773908"
