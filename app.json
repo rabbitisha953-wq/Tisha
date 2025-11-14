@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Tisha Chat",
-    "slug": "tisha-chat",
+    "slug": "tisha",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
